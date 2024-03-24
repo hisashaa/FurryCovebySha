@@ -1,13 +1,13 @@
 import React from 'react';
-import History from './History';
+import About from './About';
 
 
 const Home = () => {
   return (
   <div>
-      <History />
+      <About />
   </div>
   );
 };
 
-export default History;
+export default About;
