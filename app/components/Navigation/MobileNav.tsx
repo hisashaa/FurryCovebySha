@@ -23,7 +23,7 @@ const MobileNav = ({nav, closeNav}:Props) => {
                     <Link href="/about">About</Link>
                 </li>
                 <li className="text-[24px] cursor-pointer text-red-400 hover:text-red-900 transition-all duration-200">
-                    <Link href="/booking">Booking</Link>
+                    <Link href="/booking">Book Appointment</Link>
                 </li>
                 <li className="text-[25px] cursor-pointer text-red-400 hover:text-red-900 transition-all duration-200">
                     <Link href="/shop">Shop</Link>

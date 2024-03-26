@@ -1,9 +1,18 @@
 import React from 'react'
+import ShopMain from './ShopMain'
+import ShopHeader from './ShopHeader'
+import Navbar from './Navbar'
 
-function ShopPage() {
+
+
+const page = () => {
   return (
-    <div>ShopPage</div>
+    <div>
+      <ShopHeader />
+      <ShopMain />
+      <Navbar />
+    </div>
   )
 }
 
-export default ShopPage
+export default page

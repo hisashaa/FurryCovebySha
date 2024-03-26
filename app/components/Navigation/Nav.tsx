@@ -26,7 +26,7 @@ const Nav = ({openNav}:Props) => {
                     <Link href="/about">About</Link>
                 </li>
                 <li className="text-[17px] cursor-pointer hover:text-red-500 transition-all duration-200">
-                    <Link href="/booking">Booking</Link>
+                    <Link href="/booking">Book Appointment</Link>
                 </li>
                 <li className="text-[17px] cursor-pointer hover:text-red-500 transition-all duration-200">
                     <Link href="/shop">Shop</Link>

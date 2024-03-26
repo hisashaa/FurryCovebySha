@@ -10,7 +10,7 @@ const quicksand = Quicksand({
 
 export const metadata: Metadata = {
   title: "Furry Cove",
-  description: "Paw-fect Care & Comfort! for your Furry Babies",
+  description: "Paw-fect Care & Comfort for your Furry Babies",
 };
 
 export default function RootLayout({
