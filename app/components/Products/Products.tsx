@@ -11,7 +11,7 @@ import Icon6 from "@/public/images/Fix/Weight Loss.png";
 
 const Products = () => {
   return (
-    <div className="pb-[2rem]">
+    <div className="pb-[1rem]">
        <SectionHeading 
        headingMini="Where Every Woof and Meow Feels Like Home!" 
        headingPrimary="Check out the Promo for Adorable April!"
