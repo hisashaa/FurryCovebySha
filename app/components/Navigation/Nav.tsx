@@ -32,7 +32,7 @@ const Nav = ({openNav}:Props) => {
                     <Link href="/shop">Shop</Link>
                 </li>
                 <li className="text-[17px] cursor-pointer hover:text-red-500 transition-all duration-200">
-                    <Link href="/teams">Teams</Link>
+                    <Link href="/teams">Team</Link>
                 </li>
             </ul>
             <div className="flex items-center space-x-2 md:space-x-5">

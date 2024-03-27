@@ -3,8 +3,6 @@ import ShopMain from './ShopMain'
 import ShopHeader from './ShopHeader'
 import Navbar from './Navbar'
 
-
-
 const page = () => {
   return (
     <div>

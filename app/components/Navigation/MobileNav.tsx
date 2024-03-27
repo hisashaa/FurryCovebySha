@@ -29,7 +29,7 @@ const MobileNav = ({nav, closeNav}:Props) => {
                     <Link href="/shop">Shop</Link>
                 </li>
                 <li className="text-[25px] cursor-pointer text-red-400 hover:text-red-900 transition-all duration-200">
-                    <Link href="/teams">Teams</Link>
+                    <Link href="/teams">Team</Link>
                 </li>
             </ul>
         </div>
