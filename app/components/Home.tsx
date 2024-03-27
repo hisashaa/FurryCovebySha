@@ -2,7 +2,8 @@ import React from "react"
 import Hero from "./Hero/Hero";
 import Products from "./Products/Products";
 import WhyUs from "./WhyUs/WhyUs";
-import Testimonial from "./Testimonial/Testimonial";
+import Testimonials from "./Testimonial/Testimonials";
+import Footer from "../about/Footer/Footer";
 
 const Home = () => {
     return (
@@ -10,7 +11,8 @@ const Home = () => {
         <Hero />
         <Products />
         <WhyUs />
-        <Testimonial />
+        <Testimonials />
+        <Footer />
     </div>
     );
 };
