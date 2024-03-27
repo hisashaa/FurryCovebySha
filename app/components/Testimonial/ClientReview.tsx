@@ -28,10 +28,10 @@ const ClientReview = ({name, needed, image, testi}:Props) => {
             <StarIcon className="w-[2rem] h-[2rem] text-yellow-500" />
         </div>
         <h1 className="text-[25px] text-red-700 mt-[1rem] ">{name}</h1>
-        <p className="text-[18px] text-red-700 opacity-75 mt-[0.5 rem] mb-[1.4 rem]">
+        <p className="text-[18px] text-gray-700 mt-[0.5 rem] mb-[1.4 rem]">
             {needed}
         </p>
-        <p className="text-[16px] text-red-700 opacity-50 w-[90%] md:w-[50%] mx-auto ">
+        <p className="text-[16px] text-red-700 w-[90%] md:w-[50%] mx-auto ">
             {testi}
         </p>
     </div>

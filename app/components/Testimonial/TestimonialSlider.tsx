@@ -38,10 +38,10 @@ const TestimonialSlider = () => {
         name="Ms Laura" 
         needed="FLUTD" 
         testi="Furry Cove is incredible! When our cat suffered from FLUTD, they provided expert care that led to a full recovery. Their attention during sterilization was reassuring. Highly recommended!"/>
-        <ClientReview image="/images/Testimonial/review 3.png" 
+        <ClientReview image="/images/Testimonial/review2.png" 
         name="Ms Beatrice" 
         needed="Grooming"
-        testi="Furry Cove is a lifesaver! Our dog struggled with hairballs, but thanks to their attentive care and advice, the issue has disappeared. They truly understand pet health and well-being." />
+        testi="Exceptional grooming service! Our pet looks and feels amazing after every visit. Highly recommend for anyone seeking professional pet care. " />
         <ClientReview image="/images/Testimonial/review 3.png" 
         name="Mrs Smith" 
         needed="Hairball" 
@@ -49,15 +49,15 @@ const TestimonialSlider = () => {
         <ClientReview image="/images/Testimonial/review 4.png" 
         name="Little Teddy" 
         needed="Adoption" 
-        testi="Furry Cove exceeded our expectations! Our cat's FLUTD was a concern, but their knowledgeable staff provided guidance and support that led to significant improvement. We trust them completely with our pet's health."/>
+        testi="Our experience with pet adoption here was wonderful! We found our perfect furry companion, and the process was smooth and supportive. It's a fantastic place for anyone looking to welcome a new member into their family."/>
         <ClientReview image="/images/Testimonial/review 5.png" 
         name="Purity Fam" 
-        needed="Urinary" 
-        testi="Furry Cove is our go-to for pet health! They helped our dog overcome FLUTD with their expertise and compassionate care. We're grateful for their dedication to our pet's well-being"/>
+        needed="Medical Check-Up and Vaccine" 
+        testi="The medical check-up and vaccine service here exceeded our expectations. Professional staff, thorough examination, and a caring approach made us feel confident in our pet's health. Highly satisfied and grateful for their expertise."/>
         <ClientReview image="/images/Testimonial/review 6.png" 
         name="Puffball Paw" 
         needed="I am the cat" 
-        testi="meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"/>
+        testi="meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow (psst.. Puffball said he loves the fancy accessories, Bonjour!"/>
 
     </Carousel>
   );
