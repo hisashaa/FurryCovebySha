@@ -96,23 +96,23 @@ const Footer = () => {
                     hover:text-red-700">Article</p>
                 </div>
                 <div className="md:mx-auto mx-0">
-                <h1 className="text-[17px] text-gray-900 font-semibold mb-[1.5rem]">Find Us!</h1>
+                <h1 className="text-[17px] text-gray-900 font-semibold mb-[1.5rem]">Frequently Asked Questions</h1>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">South Jakarta</p>
+                    hover:text-red-700">Insurance</p>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">South Tangerang</p>
+                    hover:text-red-700">Billing & Payment</p>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">Bandung</p>
+                    hover:text-red-700">Hospitalization</p>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">Surabaya</p>
+                    hover:text-red-700">Adoption</p>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">Bali</p>
+                    hover:text-red-700">Illness & Symptomps</p>
                     <p className="text-black opacity-80 mb-[1rem] text-[15px] cursor-pointer
-                    hover:text-red-700">Makassar</p>
+                    hover:text-red-700">Funeral for Furries</p>
                 </div>
             </div>
         </div>
-        <div className="w-[80%] mx-auto mt-[1rem] text-[15px] tex-red-700 text-center">Copyright 2024 by Furry Cove</div>
+        <div className="w-[80%] mx-auto mt-[1rem] text-[15px] text-red-700 font-bold text-center">COPYRIGHT © 2024 BY FURRY COVE</div>
       </div>
     );
   };
