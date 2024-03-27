@@ -9,7 +9,7 @@ const WhyUs = () => {
     return (
       <div className="pt-[5rem] pb-[3rem] ">
         <div className="w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-1 gap-[4rem] items-center">
-          <div className="order-2 lg:order-1 flex items-center">
+          <div className="order-2 lg:order-1 flex-wrap flex items-center">
             <Image src={WhyUsImg} alt="WhyUs" className="max-w-md h-auto mr-8" />
             <div>
               <h1 className="text-[20px] md:text-[25px] lg:text-[28px] text-red-500 font-bold leading-[2rem] md:leading-[3rem]">
