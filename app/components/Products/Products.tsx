@@ -13,7 +13,7 @@ const Products = () => {
   return (
     <div className="pb-[1rem]">
        <SectionHeading 
-       headingMini="Where Every Woof and Meow Feels Like Home!" 
+       headingMini="Enhance your Furry Companion's Well-Being With Our Premium Products" 
        headingPrimary="Check out the Promo for Adorable April!"
        />
        <div className="pt-[5rem] w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 
