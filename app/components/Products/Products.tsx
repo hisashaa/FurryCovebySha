@@ -18,22 +18,45 @@ const Products = () => {
        />
        <div className="pt-[5rem] w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 
        items-center gap-[1.4rem] text-red-900">
-        <div>
+        <div 
+            data-aos="zoom-in" 
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Fussy & Beauty" image={Icon1.src} />
         </div>
-        <div>
+        <div 
+            data-aos="zoom-in" 
+            data-aos-delay="200" 
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Dental Fresh" image={Icon2.src} />
         </div>
-        <div>
+        <div 
+            data-aos="zoom-in"
+            data-aos-delay="400"
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Urinary Care" image={Icon3.src} />
         </div>
-        <div>
+        <div 
+            data-aos="zoom-in"
+            data-aos-delay="500"
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Mother & Baby" image={Icon4.src} />
         </div>
-        <div>
+        <div
+            data-aos="zoom-in"
+            data-aos-delay="700"
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Sterilised" image={Icon5.src} />
         </div>
-        <div>
+        <div
+            data-aos="zoom-in"
+            data-aos-delay="900"
+            data-aos-anchor-placement="top-center"
+        >
             <ProductCard title="Weight Loss" image={Icon6.src} />
         </div>
        </div>
